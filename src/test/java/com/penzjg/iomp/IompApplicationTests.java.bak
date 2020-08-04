@@ -111,9 +111,4 @@ class IompApplicationTests {
         System.out.println(loginUser);
     }
 
-	@Test
-	void getRoleList(){
-		System.out.println("测试获得角色列表");
-	}
-
 }
