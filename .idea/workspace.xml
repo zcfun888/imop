@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aa8a041-6531-4c4f-b88b-72664a7060c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="iomp" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="MybatisMapper" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="BpmnFile" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven server\repository\maven_jar" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dzdCLIfBJwn1QQ0TT8E9qRcyJi" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruoyi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project_idea\iomp\src\main\java\com\penzjg\iomp\common\utils\spring" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IompApplicationTests.encodeTest">
+    <configuration name="IompApplicationTests.createLoginUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penzjg.iomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.penzjg.iomp" />
+      <option name="MAIN_CLASS_NAME" value="com.penzjg.iomp.IompApplicationTests" />
+      <option name="METHOD_NAME" value="createLoginUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IompApplicationTests.encodeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penzjg.iomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.penzjg.iomp" />
+      <option name="MAIN_CLASS_NAME" value="com.penzjg.iomp.IompApplicationTests" />
+      <option name="METHOD_NAME" value="encodeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IompApplicationTests.generateToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penzjg.iomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.penzjg.iomp" />
+      <option name="MAIN_CLASS_NAME" value="com.penzjg.iomp.IompApplicationTests" />
+      <option name="METHOD_NAME" value="generateToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IompApplicationTests.getLoginUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penzjg.iomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.penzjg.iomp" />
+      <option name="MAIN_CLASS_NAME" value="com.penzjg.iomp.IompApplicationTests" />
+      <option name="METHOD_NAME" value="getLoginUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IompApplicationTests.testUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="iomp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.penzjg.iomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.penzjg.iomp" />
+      <option name="MAIN_CLASS_NAME" value="com.penzjg.iomp.IompApplicationTests" />
+      <option name="METHOD_NAME" value="testUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IompApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="iomp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.penzjg.iomp.IompApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IompApplicationTests.encodeTest" />
+        <item itemvalue="JUnit.IompApplicationTests.generateToken" />
+        <item itemvalue="JUnit.IompApplicationTests.createLoginUser" />
+        <item itemvalue="JUnit.IompApplicationTests.getLoginUser" />
+        <item itemvalue="JUnit.IompApplicationTests.testUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aa8a041-6531-4c4f-b88b-72664a7060c2" name="Default Changelist" comment="" />
+      <created>1593431726982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593431726982</updated>
+      <workItem from="1593431734147" duration="2075000" />
+      <workItem from="1593440224515" duration="1843000" />
+      <workItem from="1593478974979" duration="3825000" />
+      <workItem from="1593503220800" duration="21267000" />
+      <workItem from="1593566008629" duration="10320000" />
+      <workItem from="1593677644605" duration="604000" />
+      <workItem from="1593769699631" duration="16720000" />
+      <workItem from="1593830965291" duration="2676000" />
+      <workItem from="1593855928918" duration="56089000" />
+      <workItem from="1593995945841" duration="8953000" />
+      <workItem from="1594041520540" duration="8655000" />
+      <workItem from="1594081708655" duration="8822000" />
+      <workItem from="1594469299360" duration="12836000" />
+      <workItem from="1594518451654" duration="8713000" />
+      <workItem from="1594639528420" duration="5319000" />
+      <workItem from="1594709660811" duration="633000" />
+      <workItem from="1594735302915" duration="2162000" />
+      <workItem from="1594896764746" duration="2141000" />
+      <workItem from="1594969506567" duration="3154000" />
+      <workItem from="1594990479775" duration="606000" />
+      <workItem from="1595085697027" duration="669000" />
+      <workItem from="1595086400532" duration="598000" />
+      <workItem from="1595139820440" duration="596000" />
+      <workItem from="1595151053718" duration="694000" />
+      <workItem from="1595204095025" duration="1955000" />
+      <workItem from="1595299921612" duration="1556000" />
+      <workItem from="1595342518242" duration="104000" />
+      <workItem from="1595422102737" duration="739000" />
+      <workItem from="1595464191465" duration="1800000" />
+      <workItem from="1595492308832" duration="1245000" />
+      <workItem from="1595506926366" duration="916000" />
+      <workItem from="1595560316292" duration="702000" />
+      <workItem from="1595836639408" duration="796000" />
+      <workItem from="1595848582487" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1594642572164">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594642572164" />
+    <state x="775" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1593957075933" />
+    <state x="0" y="532" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593951495236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="532" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1593951495236" />
+    <state x="2552" y="147" key="FileChooserDialogImpl" timestamp="1595848654251">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2394" y="122" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595086359859" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1595500324856" />
+    <state x="2552" y="147" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595848654251" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595342560804" />
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom" timestamp="1595507847366">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611789" />
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595507847366" />
+    <state width="1222" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1877" height="271" key="GridCell.Tab.0.center" timestamp="1595507847366">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611788" />
+    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595507847366" />
+    <state width="1222" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1877" height="271" key="GridCell.Tab.0.left" timestamp="1595507847366">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611788" />
+    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595507847366" />
+    <state width="1222" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1877" height="271" key="GridCell.Tab.0.right" timestamp="1595507847366">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611788" />
+    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595507847366" />
+    <state width="1222" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1877" height="271" key="GridCell.Tab.1.bottom" timestamp="1594904231659">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611786" />
+    <state width="1877" height="271" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594904231659" />
+    <state width="1222" height="176" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1877" height="271" key="GridCell.Tab.1.center" timestamp="1594904231659">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611786" />
+    <state width="1877" height="271" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594904231659" />
+    <state width="1222" height="176" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1877" height="271" key="GridCell.Tab.1.left" timestamp="1594904231659">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611785" />
+    <state width="1877" height="271" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594904231659" />
+    <state width="1222" height="176" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1877" height="271" key="GridCell.Tab.1.right" timestamp="1594904231659">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="157" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594649611786" />
+    <state width="1877" height="271" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594904231659" />
+    <state width="1222" height="176" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1222" height="176" key="GridCell.Tab.2.bottom" timestamp="1594569595145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594085909848" />
+    <state width="1877" height="308" key="GridCell.Tab.2.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594095017062" />
+    <state width="1222" height="176" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1222" height="176" key="GridCell.Tab.2.center" timestamp="1594569595145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594085909848" />
+    <state width="1877" height="308" key="GridCell.Tab.2.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594095017062" />
+    <state width="1222" height="176" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1222" height="176" key="GridCell.Tab.2.left" timestamp="1594569595145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594085909848" />
+    <state width="1877" height="308" key="GridCell.Tab.2.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594095017062" />
+    <state width="1222" height="176" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state width="1222" height="176" key="GridCell.Tab.2.right" timestamp="1594569595145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="207" key="GridCell.Tab.2.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1594085909848" />
+    <state width="1877" height="308" key="GridCell.Tab.2.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594095017062" />
+    <state width="1222" height="176" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1594569595145" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1593433383683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1593433383683" />
+    <state x="1944" y="0" key="SettingsEditor" timestamp="1595086369627">
+      <screen x="1920" y="0" width="1440" height="860" />
+    </state>
+    <state x="1944" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1440.860@1920.0.1440.860" timestamp="1595086369627" />
+    <state x="21" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1593593891081" />
+    <state x="21" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593922030967" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1594564034739">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1594564034739" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1594897244325">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1593522837799" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594897244325" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593957150879" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/common/utils/spring/SpringUtils1.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/filter/JwtAuthenticationTokenFilter.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/UserDetailsServiceImpl.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/TokenService.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/redis/RedisCache.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/UserDetailsServiceImpl.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/penzjg/iomp/framework/security/service/UserDetailsServiceImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
